@@ -235,19 +235,28 @@ body {
 }
 
 @media screen and (max-width: 540px){
+
+    .logo {
+        width: 130px;
+    }
+
+    .img-hero {
+        margin-left: -15px;
+    }
+
     h1 {
        width: 285px;
-       margin-left: -215px;
+       margin-left: -150px;
     }
 
     p {
         width: 280px;
-        margin-left: -215px;
+        margin-left: -170px;
     }
 
     .btn {
         position: relative;
-        left: -170px;
+        left: -130px;
     }
 
     .icons {
